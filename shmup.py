@@ -1,4 +1,4 @@
-# Shmup game
+# Shmup game von Kida Can Code
 import pygame
 import random
 from os import path
