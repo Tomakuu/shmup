@@ -1,4 +1,5 @@
 # Shmup game von Kida Can Code
+# Shmup steht fuer shoot 'em up'
 import pygame
 import random
 from os import path
